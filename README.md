@@ -2,6 +2,8 @@
 
 This project aims to simplify the (initial) development of new libraries for the Arduino platform.
 
+The official page for this project is: [https://github.com/guilhermefarto/arduino-lib-builder](https://github.com/guilhermefarto/arduino-lib-builder)
+
 ## Usage
 
 * (i) Create an OS environment variable `"ARDUINO_HOME"` that points to the directory Arduino IDE installation directory;
