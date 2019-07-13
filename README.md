@@ -18,7 +18,7 @@ This project aims to simplify the (initial) development of new libraries for the
 
 > `arduino-lib-builder`
 
-* (vi) Fill in the information needed to build the new Arduino library
+* (vi) Fill in the information needed to build the new Arduino library:
 
 | Building a new Arduino library |
 | ------------------------ |
