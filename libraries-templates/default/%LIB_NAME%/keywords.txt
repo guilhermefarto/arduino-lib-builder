@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For %LIB_NAME%
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+%LIB_NAME%	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+test		KEYWORD2
+next		KEYWORD2
+getCounter	KEYWORD2
+led			KEYWORD2
+ledToggle	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
