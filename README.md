@@ -4,7 +4,7 @@ This project aims to simplify the (initial) development of new libraries for the
 
 ## Usage
 
-* (i) Create an OS environment variable "ARDUINO_HOME" that points to the directory Arduino IDE installation directory;
+* (i) Create an OS environment variable `"ARDUINO_HOME"` that points to the directory Arduino IDE installation directory;
 
 * (ii) Copy the ["libraries-templates" directory](https://github.com/guilhermefarto/arduino-lib-builder/tree/master/libraries-templates) (from GitHub) to the root directory of the Arduino IDE;
 
