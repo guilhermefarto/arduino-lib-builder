@@ -20,6 +20,24 @@ This project aims to simplify the (initial) development of new libraries for the
 
 * (vi) Fill in the information needed to build the new Arduino library
 
+| Building a new Arduino library |
+| ------------------------ |
+| ![](assets/arduino-lib-builder.png) |
+
+## Additional information
+
+1. After the new library is generated for the Arduino platform, the Visual Studio Code will be initialized based on the directory where the library was generated (_if Visual Studio Code is installed_);
+
+| Visual Studio Code initialized with generated Arduino library source |
+| ------------------------ |
+| ![](assets/ArduinoLibrary_sample1.png) |
+
+2. The Arduino IDE will also be initialized;
+
+| Arduino IDE showing example of generated library |
+| ------------------------ |
+| ![](assets/ArduinoLibrary_sample2.png) |
+
 ## Dependencies
 
 * npm install --save chalk figlet inquirer shelljs
